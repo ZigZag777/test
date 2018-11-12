@@ -1,0 +1,9 @@
+Temp/
+Library/
+obj/
+.vscode/
+.idea/
+Assets/Plugins/Editor/JetBrains/
+Assets/Plugins/Editor/JetBrains.meta
+*.sln
+*.csproj
